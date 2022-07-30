@@ -2,7 +2,6 @@
 Dodělaní prací courier, busdriver, tasty eats, builder, gardener
 Police a ambulance job
 Injury system rework
-ikony inventáře
 mobil
 okokNotify
 okokTextUI nebo qtarget
@@ -18,11 +17,9 @@ zákoník
 mechanic job
 police mdt
 ems a lsfr system
-anketa o emoji
 dispatch alerty
 hl.banka
 flatbed optimalizace
-dodělat stress
 fix vysilaček
 
 
@@ -31,3 +28,5 @@ optimalizace
 pročistit itemy v inventaři
 fixovat bugy
 rewrite server.cfg
+ikony inventáře
+anketa o emoji
