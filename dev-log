@@ -118,3 +118,4 @@ update stresu
 update oxlib oxmysql a oxinv
 nove sceny misto /zde
 mdt pro PD
+fix id karet
