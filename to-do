@@ -1,5 +1,3 @@
-rp-radio
-resetup inventaře
 injury system eventy
 fix dokumentů
 police job
@@ -15,3 +13,5 @@ tasty eats
 fruitpicker
 spray menu
 optimalizace a přechod na oxmysql
+fix chybějcich itemu
+kompatibilita vysilaček s hudem
