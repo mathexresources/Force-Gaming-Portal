@@ -2,13 +2,8 @@ police job
 nastavit ekonomiku (domy a vykradani a garaže a ceny zbrojaku)
 fixnout kompatibilitu housingu s multicharem
 ems
-Když si hráč vezme auto do začatku tak ho nemá v garaži
-PDM Rcore
 Udělat obchody s jídle a pití. Příklad Benzínka u Ballas
-Otestovat firemní garáže státních složek
-spray menu
-Fixnout prospesky, vezeni, hunting zvěře
-sjednotit font blipu
+Fixnout prospesky, vezen
 /bug
 
 PO SPUŠTĚNÍ
@@ -22,3 +17,4 @@ přeložit housing a upravit menu na F3
 obchod
 vanilla
 galaxy
+spray menu
